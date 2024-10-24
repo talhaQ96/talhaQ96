@@ -22,6 +22,10 @@ I’m a WordPress expert with extensive experience in crafting custom themes and
 1. [Elementor Football Teams](https://github.com/talhaQ96/elementor-football-teams)
 2. [API Data Integrator](https://github.com/talhaQ96/API-Data-Integrator)
 
+## 🌟 Experience
+1.  WordPress Contractor at [Harbinger Marketing](https://harbingermarketing.com/)
+2. WordPress Developer at [Coalition Technologies](https://coalitiontechnologies.com/)
+
 ## 📫 How to Reach Me
-1. [Email](talha.qrshi@gmail.com)
+1. [Email](mailto:talha.qrshi@gmail.com)
 2. [LinkedIn](https://www.linkedin.com/in/talhaaqureshi/)
