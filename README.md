@@ -1,7 +1,7 @@
 # Hi there, I'm Talha! 👋
 
 ## 🧑 About Me
-I’m a WordPress expert with extensive experience in crafting custom themes and plugins from scratch. Excelling in all aspects of WordPress and having worked remotely with agencies in the UK, USA, and Australia, I’m a seasoned contractor and freelancer ready to bring my skills to your next WordPress project or collaboration.
+I’m a WordPress expert with extensive experience in crafting custom themes and plugins from scratch. Excelling in all aspects of WordPress and having worked remotely with agencies in the UK, USA, and Australia. Being a seasoned contractor and freelancer I am ready to bring my skills to your next WordPress project or collaboration.
 
 ## 🛠️ Skills & Technologies
 
