@@ -1,7 +1,7 @@
 # Hi there, I'm Talha! 👋
 
 ## 🧑 About Me
-I’m a WordPress expert with extensive experience in crafting custom themes and plugins from scratch. Excelling in all aspects of WordPress and having worked remotely with agencies across the globe, I’m a seasoned contractor and freelancer, ready to bring my skills to your next WordPress project or collaboration.
+I’m a WordPress expert developing custom themes and plugins and building block-driven, high-performing websites using Gutenberg blocks built with ACF or React. I also craft responsive, visually compelling Webflow sites and integrate third-party APIs for seamless functionality. I’m a seasoned contractor and freelancer, ready to bring my skills to your next project or collaboration.
 
 ## 🛠️ Skills & Technologies
 Skilled in frontend and backend development exclusively for custom WordPress development, with expertise in modern tools and version control systems for efficient project delivery.
