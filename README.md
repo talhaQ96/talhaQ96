@@ -29,7 +29,7 @@ Showcasing a selection of custom WordPress websites and plugins developed to mee
 2. [API Data Integrator](https://github.com/talhaQ96/API-Data-Integrator)
 
 ## 🌟 Experience
-With 8 years of industry experience, my recent roles include:
+With 9+ years of industry experience, my recent roles include:
 
 1.  WordPress Contractor at [Harbinger Marketing](https://harbingermarketing.com/)
 2. WordPress Developer at [Coalition Technologies](https://coalitiontechnologies.com/)
